@@ -1,0 +1,283 @@
+{
+  "name": "Brain Puzzle",
+  "domain": "brainpuzzle.online",
+  "slug": "brainpuzzle",
+  "genre": "Logic Puzzle",
+  "iframeUrl": "/game/index.html",
+  "embedUrl": "https://html5.gamemonetize.co/dlmn8b6cfodv7ffbe3cmsdd1sg2s8era/",
+  "embedSource": "GameMonetize - Brain Puzzle Tricky Choices",
+  "seo": {
+    "title": "Brain Puzzle Online - Free Browser Game",
+    "description": "Play Brain Puzzle online in your browser with no download from this site. Learn the basics, open the local play page, and enjoy a quick game session.",
+    "keywords": [
+      "Brain Puzzle",
+      "Brain Puzzle online",
+      "Brain Puzzle free",
+      "logic puzzle",
+      "browser game",
+      "free online game"
+    ]
+  },
+  "homepage": {
+    "heroHeadline": "Play Brain Puzzle Online",
+    "heroSubtitle": "Open Brain Puzzle in your browser and start playing through a local game page.",
+    "lede": "Brain Puzzle is a quick logic game about reading each scene carefully, testing ideas, and choosing the answer that actually solves the problem.",
+    "stats": [
+      {
+        "value": "Quick",
+        "label": "Browser Play"
+      },
+      {
+        "value": "Simple",
+        "label": "Controls"
+      },
+      {
+        "value": "0",
+        "label": "Downloads Needed"
+      },
+      {
+        "value": "Free",
+        "label": "Game Access"
+      }
+    ],
+    "about": {
+      "kicker": "What is Brain Puzzle?",
+      "headline": "A light puzzle game where careful choices matter more than speed.",
+      "paragraph1": "Brain Puzzle is a quick logic game about reading each scene carefully, testing ideas, and choosing the answer that actually solves the problem.",
+      "paragraph2": "Each round presents a small visual problem. Look for clues, tap the option that fits the scene, and adjust when the puzzle tries to mislead you."
+    },
+    "howToPlay": {
+      "headline": "How to play Brain Puzzle",
+      "subheading": "Start with the basics, then improve through cleaner decisions."
+    },
+    "steps": [
+      {
+        "icon": "folder",
+        "title": "Open the Game",
+        "desc": "Load the local play page and wait for the first puzzle scene to appear."
+      },
+      {
+        "icon": "eye",
+        "title": "Study the Scene",
+        "desc": "Look at the characters, objects, and wording before choosing an answer."
+      },
+      {
+        "icon": "zap",
+        "title": "Tap a Choice",
+        "desc": "Use mouse or touch input to pick the option that best solves the situation."
+      },
+      {
+        "icon": "target",
+        "title": "Learn From Surprises",
+        "desc": "Some answers are playful or unexpected, so use each retry to notice better clues."
+      },
+      {
+        "icon": "check-circle",
+        "title": "Keep Progressing",
+        "desc": "Move through more scenes as the puzzles ask for sharper observation."
+      }
+    ],
+    "categories": [
+      {
+        "name": "Visual Clues",
+        "icon": "eye",
+        "color": "#10b981",
+        "bg": "#d1fae5",
+        "img": "/level-thumbs/category-1.webp"
+      },
+      {
+        "name": "Choice Logic",
+        "icon": "target",
+        "color": "#f59e0b",
+        "bg": "#fef3c7",
+        "img": "/level-thumbs/category-2.webp"
+      },
+      {
+        "name": "Scene Reading",
+        "icon": "puzzle",
+        "color": "#3b82f6",
+        "bg": "#dbeafe",
+        "img": "/level-thumbs/category-3.webp"
+      },
+      {
+        "name": "Creative Answers",
+        "icon": "refresh",
+        "color": "#8b5cf6",
+        "bg": "#ede9fe",
+        "img": "/level-thumbs/category-4.webp"
+      },
+      {
+        "name": "Retry Learning",
+        "icon": "check-circle",
+        "color": "#ef4444",
+        "bg": "#fee2e2",
+        "img": "/level-thumbs/category-5.webp"
+      }
+    ],
+    "features": [
+      {
+        "icon": "bolt",
+        "title": "Instant Browser Play",
+        "desc": "Start from the play page without downloading an app from this site."
+      },
+      {
+        "icon": "eye",
+        "title": "Observation First",
+        "desc": "The best moves usually come from spotting small details in the scene."
+      },
+      {
+        "icon": "target",
+        "title": "Choice-Based Puzzles",
+        "desc": "Each round asks you to select the answer that fits the situation."
+      },
+      {
+        "icon": "refresh",
+        "title": "Easy Retries",
+        "desc": "A missed answer becomes useful feedback for the next attempt."
+      },
+      {
+        "icon": "device",
+        "title": "Mouse and Touch Controls",
+        "desc": "The embedded game supports modern desktop and mobile browsers."
+      },
+      {
+        "icon": "shield",
+        "title": "General Audience Page",
+        "desc": "The copy avoids reward claims, gambling language, and misleading ownership claims."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is Brain Puzzle?",
+        "a": "Brain Puzzle is a browser logic game built around visual clues and choice-based puzzle scenes."
+      },
+      {
+        "q": "Is Brain Puzzle free to play?",
+        "a": "Yes, the embedded browser game can be opened from this site without a purchase prompt from the page."
+      },
+      {
+        "q": "Do I need to install anything?",
+        "a": "No. The game loads through a local browser route that embeds the external playable version."
+      },
+      {
+        "q": "What is the main strategy?",
+        "a": "Slow down, read the scene, and look for details that make one answer more reasonable than the rest."
+      },
+      {
+        "q": "Does it work on mobile?",
+        "a": "The embedded game is mobile-ready, though a larger screen can make small clues easier to see."
+      },
+      {
+        "q": "Is this an official app page?",
+        "a": "No. This is an independent browser play page with practical gameplay information."
+      }
+    ],
+    "cta": {
+      "headline": "Ready to play Brain Puzzle?",
+      "subtext": "Open the browser game page and start a quick session."
+    }
+  },
+  "playPage": {
+    "howItWorksSubtitle": "Three simple steps to start playing",
+    "steps": [
+      {
+        "title": "Open the Game",
+        "desc": "Load the local play page and wait for the first puzzle scene to appear."
+      },
+      {
+        "title": "Study the Scene",
+        "desc": "Look at the characters, objects, and wording before choosing an answer."
+      },
+      {
+        "title": "Tap a Choice",
+        "desc": "Use mouse or touch input to pick the option that best solves the situation."
+      }
+    ]
+  },
+  "faqPage": {
+    "items": [
+      {
+        "q": "What is Brain Puzzle?",
+        "a": "Brain Puzzle is a browser logic game built around visual clues and choice-based puzzle scenes."
+      },
+      {
+        "q": "Is Brain Puzzle free to play?",
+        "a": "Yes, the embedded browser game can be opened from this site without a purchase prompt from the page."
+      },
+      {
+        "q": "Do I need to install anything?",
+        "a": "No. The game loads through a local browser route that embeds the external playable version."
+      },
+      {
+        "q": "What is the main strategy?",
+        "a": "Slow down, read the scene, and look for details that make one answer more reasonable than the rest."
+      },
+      {
+        "q": "Does it work on mobile?",
+        "a": "The embedded game is mobile-ready, though a larger screen can make small clues easier to see."
+      },
+      {
+        "q": "Is this an official app page?",
+        "a": "No. This is an independent browser play page with practical gameplay information."
+      }
+    ]
+  },
+  "howToPlayPage": {
+    "intro": "Brain Puzzle is easiest to enjoy when you learn the main loop first and then focus on better timing and cleaner choices.",
+    "steps": [
+      {
+        "title": "Open the Game",
+        "desc": "Load the local play page and wait for the first puzzle scene to appear."
+      },
+      {
+        "title": "Study the Scene",
+        "desc": "Look at the characters, objects, and wording before choosing an answer."
+      },
+      {
+        "title": "Tap a Choice",
+        "desc": "Use mouse or touch input to pick the option that best solves the situation."
+      },
+      {
+        "title": "Learn From Surprises",
+        "desc": "Some answers are playful or unexpected, so use each retry to notice better clues."
+      },
+      {
+        "title": "Keep Progressing",
+        "desc": "Move through more scenes as the puzzles ask for sharper observation."
+      }
+    ],
+    "mechanic": "Each round presents a small visual problem. Look for clues, tap the option that fits the scene, and adjust when the puzzle tries to mislead you.",
+    "difficultyProgression": "Early play is about learning the controls. Later sessions reward patience, planning, and avoiding rushed decisions.",
+    "tips": [
+      "Read the full scene before tapping; the obvious answer is not always the correct one.",
+      "Pause for a moment before repeating a move that just failed.",
+      "Use short sessions to learn one pattern or control habit at a time.",
+      "Refresh the page if the external game frame does not load correctly."
+    ]
+  },
+  "blog": {
+    "headline": "Brain Puzzle Tips and Browser Play Guide",
+    "subheading": "Practical notes for smoother sessions.",
+    "introParagraph": "This guide keeps Brain Puzzle simple: learn the controls, understand the main objective, and improve one decision at a time.",
+    "posts": [
+      {
+        "title": "How to start Brain Puzzle without overthinking it",
+        "excerpt": "Focus on the first few actions, learn what changes after each move, and keep the session relaxed.",
+        "date": "2026-05-12",
+        "readTime": "3 min read"
+      },
+      {
+        "title": "Common Brain Puzzle mistakes to avoid",
+        "excerpt": "Most early mistakes come from rushing. Slow down, look at the next option, and make the screen easier to read.",
+        "date": "2026-05-12",
+        "readTime": "4 min read"
+      },
+      {
+        "title": "Why short browser sessions work well for Brain Puzzle",
+        "excerpt": "A quick session is enough to learn one pattern, test one choice, or improve one habit.",
+        "date": "2026-05-12",
+        "readTime": "3 min read"
+      }
+    ]
+  }
+}
