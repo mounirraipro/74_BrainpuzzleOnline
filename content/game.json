@@ -246,13 +246,28 @@
         "desc": "Move through more scenes as the puzzles ask for sharper observation."
       }
     ],
-    "mechanic": "Each round presents a small visual problem. Look for clues, tap the option that fits the scene, and adjust when the puzzle tries to mislead you.",
+    "mechanic": {
+      "title": "Core Mechanic",
+      "desc": "Each round presents a small visual problem. Look for clues, tap the option that fits the scene, and adjust when the puzzle tries to mislead you."
+    },
     "difficultyProgression": "Early play is about learning the controls. Later sessions reward patience, planning, and avoiding rushed decisions.",
     "tips": [
-      "Read the full scene before tapping; the obvious answer is not always the correct one.",
-      "Pause for a moment before repeating a move that just failed.",
-      "Use short sessions to learn one pattern or control habit at a time.",
-      "Refresh the page if the external game frame does not load correctly."
+      {
+        "title": "Read the full scene",
+        "desc": "The obvious answer is not always the correct one."
+      },
+      {
+        "title": "Pause after mistakes",
+        "desc": "Take a moment before repeating a move that just failed."
+      },
+      {
+        "title": "Use short sessions",
+        "desc": "Learn one pattern or control habit at a time."
+      },
+      {
+        "title": "Reload when needed",
+        "desc": "Refresh the page if the external game frame does not load correctly."
+      }
     ]
   },
   "blog": {
@@ -261,22 +276,79 @@
     "introParagraph": "This guide keeps Brain Puzzle simple: learn the controls, understand the main objective, and improve one decision at a time.",
     "posts": [
       {
+        "slug": "getting-started",
         "title": "How to start Brain Puzzle without overthinking it",
         "excerpt": "Focus on the first few actions, learn what changes after each move, and keep the session relaxed.",
+        "category": "Guide",
         "date": "2026-05-12",
-        "readTime": "3 min read"
+        "readTime": "3 min read",
+        "icon": "map",
+        "sections": [
+          {
+            "heading": "Start With the First Scene",
+            "paragraphs": [
+              "Brain Puzzle works best when you slow down and treat the first scene as a tutorial. Look at the characters, objects, and wording before tapping anything.",
+              "The game often rewards observation more than speed, so the first few seconds of each puzzle are useful planning time."
+            ]
+          },
+          {
+            "heading": "Learn the Response",
+            "paragraphs": [
+              "Use the opening attempts to understand how the game reacts to your choices. A wrong answer still teaches you what kind of clue you missed.",
+              "Once the controls feel familiar, focus on making one cleaner decision each round instead of trying to rush through every scene."
+            ]
+          }
+        ]
       },
       {
+        "slug": "common-mistakes",
         "title": "Common Brain Puzzle mistakes to avoid",
         "excerpt": "Most early mistakes come from rushing. Slow down, look at the next option, and make the screen easier to read.",
+        "category": "Strategy",
         "date": "2026-05-12",
-        "readTime": "4 min read"
+        "readTime": "4 min read",
+        "icon": "bulb",
+        "sections": [
+          {
+            "heading": "Rushing the Obvious Choice",
+            "paragraphs": [
+              "Many puzzles are designed to make the first obvious answer feel tempting. Pause long enough to compare it with the rest of the scene.",
+              "If an answer feels too easy, scan for small details that change the meaning of the prompt."
+            ]
+          },
+          {
+            "heading": "Ignoring Failed Attempts",
+            "paragraphs": [
+              "A failed attempt is useful when you identify why it failed. Look for the missed clue before trying the same type of move again.",
+              "That habit turns retries into practice instead of random guessing."
+            ]
+          }
+        ]
       },
       {
+        "slug": "short-browser-sessions",
         "title": "Why short browser sessions work well for Brain Puzzle",
         "excerpt": "A quick session is enough to learn one pattern, test one choice, or improve one habit.",
+        "category": "Wellness",
         "date": "2026-05-12",
-        "readTime": "3 min read"
+        "readTime": "3 min read",
+        "icon": "clock",
+        "sections": [
+          {
+            "heading": "Keep Each Session Focused",
+            "paragraphs": [
+              "Brain Puzzle fits short breaks because each scene gives fast feedback. You can learn a pattern without committing to a long play session.",
+              "Short sessions also make it easier to stop before attention drops."
+            ]
+          },
+          {
+            "heading": "Improve One Habit",
+            "paragraphs": [
+              "Pick one thing to practice, such as reading every option or pausing after a mistake. A small goal makes progress easier to notice.",
+              "When that habit feels natural, return later and focus on the next improvement."
+            ]
+          }
+        ]
       }
     ]
   }
